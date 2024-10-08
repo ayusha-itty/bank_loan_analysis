@@ -1,7 +1,7 @@
 # bank_loan_analysis
 I developed a project in excel having multiple dashboards. The process involved data processing,data visualisation.
 # dataset used
-<a href "https://github.com/ayusha-itty/bank_loan_analysis/raw/main/bank_loan_dataset.xlsm"
+<a href="https://github.com/ayusha-itty/bank_loan_analysis/raw/main/bank_loan_dataset.xlsm">Dataset</a>
 
 
 # DASHBOARD 1: SUMMARY
@@ -37,7 +37,7 @@ In order to gain a comprehensive overview of our lending operations and monitor 
 
 
 # DASHBOARD 2: OVERVIEW
-<a href "https://github.com/ayusha-itty/bank_loan_analysis/blob/main/overview_dashboard.png"</a>
+<a href="https://github.com/ayusha-itty/bank_loan_analysis/blob/main/overview_dashboard.png">View Dashboard</a>
 
 In our Bank Loan Report project, we aim to visually represent critical loan-related metrics and trends using a variety of chart types. These charts will provide a clear and insightful view of our lending operations, facilitating data-driven decision-making and enabling us to gain valuable insights into various loan parameters. Below are the specific chart requirements:
 1. Monthly Trends by Issue Date (Line Chart):
